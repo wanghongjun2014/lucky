@@ -1,5 +1,5 @@
 {
-    "name": " wanghongjun2014/lucky",
+    "name": " wanghongjunfdf/lucky",
     "description": "php lucky",
     "license": "MIT",
     "keywords": ["message lucky"],
@@ -16,7 +16,7 @@
 
     "autoload": {
         "psr-4": {
-            "App": "src/"
+          "App\\": "src/"
         }
     }
 }
