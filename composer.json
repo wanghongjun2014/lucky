@@ -1,5 +1,6 @@
 {
     "name": "lucky2/luckyor",
+    "minimum-stability":"dev",
     "description": "php lucky",
     "license": "MIT",
     "keywords": ["message lucky"],
